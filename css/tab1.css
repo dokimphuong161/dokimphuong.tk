@@ -188,12 +188,39 @@ a {
     padding: 10px 20px;
 }
 
+#section-heading .designAll .insert_img {
+    width: 1130px;
+    height: 630px;
+}
+
+#section-heading .designAll .insert_img1 {
+    width: 1130px;
+    height: 780px;
+}
+
 #section-heading .picture img {
-    margin: 10px 230px;
+    float: left;
+    clear: right;
+    margin: 30px 130px;
 }
 
 #section-heading .load {
-    margin: 20px 450px;
+    margin-top: -80px;
+    margin-right: 75px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    background: #1b2426;
+    opacity: 0.9;
+    border: none;
+    float: right;
+}
+
+#section-heading .load1 {
+    margin: 30px 450px;
     width: 200px;
     height: 50px;
     border-radius: 5px;
@@ -207,12 +234,21 @@ a {
 
 #section-heading .load:hover {
     background: darkred;
-    color: #CCCCCC;
+    cursor: pointer;
+
+}
+
+#section-heading .load1:hover {
+    background: darkred;
     cursor: pointer;
 
 }
 
 #section-heading .load a:hover {
+    color: #CCCCCC;
+}
+
+#section-heading .load1 a:hover {
     color: #CCCCCC;
 }
 
