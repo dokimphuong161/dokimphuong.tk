@@ -1,0 +1,408 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#container {
+    width: 1360px;
+    margin: auto;
+}
+
+#menu {
+    width: 100%;
+    height: 52px;
+}
+
+#menu ul {
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+    background: #1b2426;
+    opacity: 0.8;
+}
+
+#menu ul li {
+    list-style: none;
+    float: left;
+    padding: 15px;
+}
+
+#menu ul li:hover {
+    background: darkred;
+    cursor: pointer;
+    color: #eeeeee;
+    border-bottom: 3px solid #CCCCCC;
+}
+
+#menu ul li a {
+    font-weight: bold;
+    margin: 0 15px 0 15px;
+}
+
+#menu ul li:hover a {
+    color: #eeeeee;
+}
+
+#menu .sub ul {
+    position: absolute;
+    top: 51px;
+    visibility: hidden;
+    margin-left: -16px;
+
+}
+
+#menu .sub:hover ul li {
+    visibility: visible;
+    background: #eeeeee;
+}
+
+#menu .sub ul li a {
+    color: black;
+}
+
+#menu .sub ul li:hover a {
+    color: #CCCCCC;
+}
+
+#menu .sub ul li {
+    float: none;
+    border-bottom: 1px solid darkgray;
+}
+
+#nav {
+    width: 1300px;
+    height: 50px;
+    margin: 40px 90px;
+}
+
+#nav .col {
+    width: 430px;
+    height: 58px;
+}
+
+#nav .col ul {
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+    background: #1b2426;
+    opacity: 0.8;
+    border-radius: 5px;
+}
+
+#nav .col ul li {
+    width: 80px;
+    list-style: none;
+    float: left;
+    padding: 15px;
+    font-weight: bold;
+}
+
+#nav ul li:hover {
+    background: darkred;
+    cursor: pointer;
+    border-bottom: 3px solid whitesmoke;
+}
+
+#nav ul li:hover a {
+    color: #CCCCCC;
+}
+
+#section-heading {
+    width: 1360px;
+}
+
+#section-heading .lab1 {
+    color: #aa0a5f;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    border-top: #CCCCCC solid 1px;
+}
+
+#section-heading .content {
+    width: 1360px;
+}
+
+#section-heading .tabs {
+    margin: 40px 100px;
+    width: 450px;
+
+}
+
+#section-heading .tabs ul {
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+}
+
+#section-heading .tabs ul li {
+    width: 150px;
+    list-style: none;
+    float: left;
+    padding: 20px;
+    font-weight: bold;
+    border: #CCCCCC solid 1px;
+}
+
+#section-heading .tabs ul li a {
+    color: #aa0a5f;
+    text-align: center;
+}
+
+#section-heading .tab-content {
+    width: 1360px;
+    border-top: #CCCCCC solid 1px;
+}
+
+#section-heading .tab-content .tab-pane {
+    margin-left: 100px;
+}
+
+#section-heading .tab-content .table {
+    width: 1150px;
+    margin-top: 20px;
+}
+
+#section-heading .designAll {
+    margin-top: 20px;
+    width: 1130px;
+    background: white;
+    border: #CCCCCC solid 2px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+#section-heading .designAll .title {
+    width: 100%;
+    height: 50px;
+    color: black;
+    font-weight: bolder;
+    font-size: 18px;
+    background: whitesmoke;
+    padding: 10px 20px;
+}
+
+#section-heading .picture img {
+    margin: 10px 230px;
+}
+
+#section-heading .load {
+    margin: 20px 450px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    background: #1b2426;
+    opacity: 0.9;
+    border: none;
+}
+
+#section-heading .load:hover {
+    background: darkred;
+    color: #CCCCCC;
+    cursor: pointer;
+
+}
+
+#section-heading .load a:hover {
+    color: #CCCCCC;
+}
+
+#section-heading .purport {
+    width: 1130px;
+    height: 620px;
+}
+
+#section-heading .purport .title-purport {
+    text-align: center;
+    margin-top: 30px;
+    color: #3687E4;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#section-heading .purport .funtion {
+    width: 500px;
+    height: 50px;
+    float: right;
+    clear: left;
+    margin-right: 50px;
+}
+
+.purtport1 .btn_sub {
+    width: 170px;
+    height: 40px;
+    color: white;
+    background: #23AFEC;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.purtport1 .btn_sub:hover {
+    background: #999999;
+}
+
+.purtport1 .find {
+    height: 41px;
+    width: 215px;
+    padding-left: 10px;
+    font-weight: bold;
+    color: #4cd3e3;
+    font-size: 20px;
+    border: #4cd3e3 solid 1px;
+    border-radius: 5px;
+}
+
+.purtport1 .table_product {
+    margin: 100px 115px;
+    width: 850px;
+}
+
+#section-heading .table_for_product .colums {
+    border: #4cd3e3 solid 2px;
+}
+
+.table_product .row1 {
+    color: #4cd3e3;
+    font-size: 20px;
+}
+
+.table_product .row2 {
+    color: #736666;
+    font-size: 20px;
+}
+
+.table_product .row2:hover {
+    background: whitesmoke;
+}
+
+.row2 .btn_img {
+    background: white;
+    border: none;
+}
+
+.table_for_product {
+    text-align: center;
+}
+
+.list_next ul {
+    width: 500px;
+    margin: -70px 700px;
+
+}
+
+.list_next ul li {
+    float: left;
+    width: 40px;
+    height: 40px;
+    border: #4cd3e3 solid 1px;
+    list-style-type: none;
+    padding: 5px 15px;
+    border-collapse: collapse;
+}
+
+.list_next ul li:hover {
+    background: whitesmoke;
+}
+
+.list_next ul li a {
+    text-decoration: none;
+    color: #4cd3e3;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.purport_alpha {
+    width: 1130px;
+    height: 350px;
+}
+
+.purport_alpha .title-purport {
+    text-align: center;
+    margin-top: 30px;
+    color: #3687E4;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.alpha {
+    width: 450px;
+    height: 200px;
+    margin: 30px 340px;
+}
+
+.noName {
+    color: #4cd3e3;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.input_noName {
+    border: #4cd3e3 solid 1px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    color: #7B6F70;
+    font-weight: bold;
+    font-size: 18px;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+
+
+.omega {
+    width: 200px;
+    height: 100px;
+    margin: -30px 560px;
+}
+
+.btnOption {
+    width: 80px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    background: #4cd3e3;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.btnOption:hover {
+    background: #999999;
+}
+
+#foot_st {
+    width: 1360px;
+    height: 60px;
+    background: black;
+    color: white;
+    opacity: 0.8;
+    margin-top: 20px;
+}
+
+#foot_st a {
+    color: #0066cc;
+}
+
+#foot_st p {
+    width: 500px;
+    padding-top: 20px;
+    margin-left: 450px;
+}
+
+
+
+
