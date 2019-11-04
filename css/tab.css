@@ -1,0 +1,1259 @@
+/*body {*/
+/*    margin: 0px;*/
+/*    padding: 0px;*/
+
+/*}*/
+
+/*#container {*/
+/*    margin: auto;*/
+/*}*/
+
+/*#section-heading {*/
+/*    margin: auto;*/
+/*    width: 1350px;*/
+/*}*/
+
+#section-heading .content {
+    margin: 20px 20px;
+}
+
+#section-heading .nav a {
+    font-size: 17px;
+}
+.navbar {
+    font-size: 17px;
+}
+#section-heading .tabs a {
+    color: #1345E6;
+}
+
+#section-heading .tab-content .table {
+    margin-top: 20px;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+#section-heading .tab-content b {
+    color: black;
+}
+
+#section-heading .designAll {
+    margin-top: 20px;
+    width: 1130px;
+    background: white;
+    border: #CCCCCC solid 1px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    font-family: Arial;
+}
+
+#section-heading .designAll .title p {
+    width: 1128px;
+    height: 50px;
+    color: black;
+    font-weight: bolder;
+    font-size: 18px;
+    background: whitesmoke;
+    padding: 10px 20px;
+    font-family: Arial;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+#section-heading .designAll .insert_img {
+    width: 1130px;
+    height: 630px;
+}
+
+#section-heading .designAll .insert_img1 {
+    width: 1130px;
+    height: 610px;
+}
+
+#section-heading .picture img {
+    float: left;
+    clear: right;
+    margin: 30px 130px;
+}
+
+#section-heading .load {
+    margin-top: -300px;
+    margin-right: 135px;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    background: -webkit-linear-gradient(90deg, blue 0%, lightskyblue 100%);
+    background: -moz-linear-gradient(90deg, blue 0%, lightskyblue 100%);
+    background: -o-linear-gradient(90deg, blue 0%, lightskyblue 100%);
+    background: linear-gradient(90deg, blue 0%, lightskyblue 100%);
+    opacity: 0.9;
+    border: none;
+    float: right;
+}
+
+
+#section-heading .load1 {
+    margin-bottom: 20px;
+    margin-left: 450px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    background: -webkit-linear-gradient(90deg, darkred 0%, orangered 100%);
+    background: -moz-linear-gradient(90deg, darkred 0%, orangered 100%);
+    background: -o-linear-gradient(90deg, darkred 0%, orangered 100%);
+    background: linear-gradient(90deg, darkred 0%, orangered 100%);
+    opacity: 0.9;
+    border: none;
+}
+
+#section-heading .load:hover {
+    background: #766dff;
+    cursor: pointer;
+
+}
+
+#section-heading .load1:hover {
+    background: orangered;
+    cursor: pointer;
+
+}
+
+#section-heading .load a {
+    color: white;
+}
+
+#section-heading .load1 a {
+    color: white;
+}
+
+#section-heading .purport {
+    width: 1130px;
+    height: 650px;
+    font-family: Arial;
+}
+
+#section-heading .purport .title-purport {
+    text-align: center;
+    margin-top: 30px;
+    color: darkblue;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+
+#section-heading .purport table .row1 {
+    height: 50px;
+}
+
+#section-heading .purport .funtion {
+    float: right;
+    margin-top: 15px;
+    width: 1110px;
+    height: 50px;
+    clear: left;
+    margin-right: 10px;
+}
+
+.purport .funtion_left {
+    float: left;
+    clear: right;
+    width: 400px;
+    margin-left: 100px;
+}
+
+.purport .funtion_right {
+    float: right;
+}
+
+.purtport1 .btn_sub {
+    width: 110px;
+    height: 35px;
+    color: white;
+    background: orange;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 3px;
+
+}
+
+.purtport1 .btn_sub1 {
+    width: 110px;
+    height: 35px;
+    color: white;
+    background: blue;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 3px;
+
+}
+
+.purtport1 .find {
+    height: 36px;
+    width: 415px;
+    padding-left: 10px;
+    color: black;
+    font-size: 15px;
+    border: #b9bbbe solid 1px;
+    border-radius: 3px;
+}
+
+.purtport1 .table_product {
+    margin: 90px 10px;
+    width: 850px;
+}
+
+#section-heading .table-bordered .colums {
+    text-align: center;
+}
+
+.table-bordered .btn_table {
+    width: 150px;
+    height: 35px;
+    border: black solid 1px;
+    color: white;
+    font-size: 25px;
+}
+
+.btn1 {
+    width: 32px;
+    height: 32px;
+    background: dodgerblue;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 20px;
+}
+
+.btn2 {
+    width: 32px;
+    height: 32px;
+    background: orange;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 20px;
+}
+
+.btn3 {
+    width: 32px;
+    height: 32px;
+    background: limegreen;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 20px;
+}
+
+.table_product .row2:hover {
+    background: whitesmoke;
+}
+
+.table_for_product {
+    text-align: center;
+}
+
+
+.purport button:hover {
+    background: gainsboro;
+    color: dimgray;
+}
+
+.purport tr:hover {
+    background: ghostwhite;
+}
+
+.listItem {
+    margin: -50px 400px;
+}
+
+.purport_alpha {
+    font-family: Arial;
+    border: gainsboro solid 1px;
+    width: 430px;
+    height: 380px;
+    margin: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    background: ghostwhite;
+}
+
+
+.purport_alpha .title-purport {
+    text-align: center;
+    margin-top: 30px;
+    color: darkblue;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.purport_alpha .box {
+    width: 410px;
+    height: 200px;
+    margin: 25px 15px;
+}
+
+.alpha {
+    width: 140px;
+    height: 200px;
+    float: left;
+    clear: right;
+}
+
+.delta {
+    width: 260px;
+    float: right;
+}
+
+
+.noName {
+    color: black;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.input_noName {
+    border: gainsboro solid 1px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #7B6F70;
+    font-size: 15px;
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+
+.omega {
+    width: 210px;
+    height: 26px;
+    margin: 25px 200px;
+}
+
+.btnOption {
+    width: 100px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    background: orange;
+    border: none;
+    border-radius: 3px;
+
+
+}
+
+.btnOption1 {
+    width: 100px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    background: blue;
+    border: none;
+    border-radius: 3px;
+
+
+}
+
+.purport_alpha button:hover {
+    background: gainsboro;
+    color: dimgray;
+}
+
+/*Lab2*/
+.userna {
+    width: 1130px;
+    height: 350px;
+    /*border: black solid 1px;*/
+    position: relative;
+    font-family: Arial;
+}
+
+#userscenario .titleUser {
+    width: 1100px;
+    text-align: center;
+    font-size: 16px;
+    margin: 10px 12px;
+    color: black;
+}
+
+#userscenario .userYC {
+    text-align: center;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    left: 250px;
+    background: #cce5ff;
+    border: #80bdff solid 1px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#userscenario .user {
+    font-size: 50px;
+    color: #80bdff;
+    position: absolute;
+    top: 50px;
+    left: 430px;
+}
+
+#userscenario .userYC1 {
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    left: 500px;
+    text-align: center;
+    background: #cce5ff;
+    border: #80bdff solid 1px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#userscenario .user1 {
+    font-size: 50px;
+    color: #80bdff;
+    position: absolute;
+    top: 50px;
+    left: 680px;
+}
+
+#userscenario .userYC2 {
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    left: 750px;
+    text-align: center;
+    background: #cce5ff;
+    border: #80bdff solid 1px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#userscenario .user2 {
+    font-size: 50px;
+    color: #80bdff;
+    position: absolute;
+    top: 150px;
+    left: 810px;
+}
+
+#userscenario .userYC3 {
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 220px;
+    left: 750px;
+    text-align: center;
+    background: #cce5ff;
+    border: #80bdff solid 1px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#userscenario .user3 {
+    font-size: 50px;
+    color: #80bdff;
+    position: absolute;
+    top: 250px;
+    left: 680px;
+}
+
+#userscenario .userYC4 {
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 220px;
+    left: 500px;
+    text-align: center;
+    background: #cce5ff;
+    border: #80bdff solid 1px;
+    border-radius: 5px;
+    font-size: 16px;
+
+}
+
+#userscenario .user4 {
+    font-size: 50px;
+    color: #80bdff;
+    position: absolute;
+    top: 250px;
+    left: 430px;
+
+}
+
+#userscenario .userYC5 {
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 220px;
+    left: 250px;
+    text-align: center;
+    background: #cce5ff;
+    border: #80bdff solid 1px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.purport .contentSP {
+    width: 1130px;
+    height: 650px;
+    position: relative;
+}
+
+.purport .contentSP .imgMiniSRM {
+    width: 80px;
+    height: 170px;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+.purport .contentSP .imgMiniSRM img:hover {
+    box-shadow: #cce5ff 3px 3px 3px;
+    cursor: pointer;
+}
+
+.purport .contentSP .imgSRM {
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+
+.purport .contentSP .imgSRM img:hover {
+    box-shadow: whitesmoke 10px 10px 10px;
+    cursor: pointer;
+
+}
+
+.purport .contentSP .info {
+    width: 300px;
+    height: 500px;
+    position: absolute;
+    top: 20px;
+    left: 500px;
+    border-left: whitesmoke solid 1px;
+    padding-left: 10px;
+    background: none;
+}
+
+.purport .contentSP .info .nameSP {
+    font-weight: bold;
+    font-size: 20px;
+    color: #0066cc;
+    border-bottom: 1px whitesmoke solid;
+    padding-bottom: 5px;
+
+}
+
+
+.info .price {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.info .giam {
+    color: red;
+    text-decoration: none;
+}
+
+.info1 {
+    width: 290px;
+    height: 150px;
+    border-bottom: whitesmoke solid 1px;
+    margin-top: -10px;
+}
+
+.buy {
+    width: 290px;
+    height: 90px;
+    border-bottom: whitesmoke solid 1px;
+}
+
+.listSL ul {
+    width: 150px;
+    height: 30px;
+    margin: 5px 5px;
+
+}
+
+.listSL ul li {
+    float: left;
+    width: 30px;
+    height: 30px;
+    border: #CCCCCC solid 1px;
+    list-style-type: none;
+    padding: 0px 10px;
+    border-collapse: collapse;
+    font-size: 15px;
+}
+
+.listSL ul li:hover {
+    background: whitesmoke;
+}
+
+.listSL ul li a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    /*font-weight: bold;*/
+    font-size: 14px;
+
+}
+
+.btnTGH {
+    margin-top: -35px;
+    margin-left: 115px;
+}
+
+.feedback {
+    width: 290px;
+    height: 500px;
+    position: absolute;
+    top: 15px;
+    left: 830px;
+    border: orange solid 1px;
+    border-radius: 3px;
+}
+
+.cuanhang {
+    padding-top: 5px;
+}
+
+.infoma {
+    margin: 5px 5px;
+    width: 280px;
+    height: 130px;
+    border-bottom: whitesmoke solid 1px;
+
+}
+
+.fbKH {
+    width: 270px;
+    height: 150px;
+    border-bottom: whitesmoke solid 1px;
+    margin-left: 10px;
+}
+
+.spTogether {
+    width: 580px;
+    height: 150px;
+    position: absolute;
+    top: 500px;
+    left: 33px;
+}
+
+.spTogether img:hover {
+    box-shadow: #eeeeee 3px 3px 3px;
+    cursor: pointer;
+}
+
+/*Lab3*/
+/*Ex1*/
+.content_web {
+    position: relative;
+}
+
+.logo {
+    width: 250px;
+    position: absolute;
+    left: 10px;
+}
+
+.menuw_web {
+    position: absolute;
+    top: 80px;
+    left: 10px;
+}
+
+.menuw_web a {
+    margin-left: 10px;
+    font-weight: bold;
+    color: #009551;
+}
+
+.menuw_web a:hover {
+    background: #009551;
+    color: white;
+}
+
+.timkiem {
+    width: 1105px;
+    height: 40px;
+    position: absolute;
+    top: 145px;
+    left: 10px;
+}
+
+.o_tim {
+    width: 1010px;
+    border-radius: 3px;
+    border: gainsboro solid 1px;
+    padding-left: 10px;
+    background: #eeeeee;
+    color: black;
+}
+
+.tim {
+    background: orange;
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.duonglink {
+    position: absolute;
+    top: 180px;
+    left: 10px;
+}
+
+.duonglink a {
+    color: black;
+}
+
+.new1 {
+    width: 575px;
+    height: 450px;
+    position: absolute;
+    top: 210px;
+    left: 10px;
+}
+
+.new2 {
+    width: 210px;
+    height: 150px;
+    position: absolute;
+    top: 210px;
+    left: 600px;
+}
+
+.new3 {
+    width: 210px;
+    height: 150px;
+    position: absolute;
+    top: 410px;
+    left: 600px;
+}
+
+.new4 {
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    top: 190px;
+    left: 820px;
+}
+
+.new5 {
+    width: 570px;
+    height: 200px;
+    position: absolute;
+    border-bottom: #eeeeee solid 1px;
+    top: 670px;
+    left: 10px;
+}
+
+.hinh {
+    float: left;
+    clear: right;
+}
+
+.bao {
+    width: 350px;
+    float: right;
+    font-size: 15px;
+}
+
+.new6 {
+    width: 570px;
+    height: 200px;
+    position: absolute;
+    top: 890px;
+    left: 10px;
+    border-bottom: #eeeeee solid 1px;
+}
+
+.new7 {
+    width: 570px;
+    height: 180px;
+    position: absolute;
+    top: 1110px;
+    left: 10px;
+}
+
+.new8 {
+    width: 200px;
+    position: absolute;
+    top: 670px;
+    left: 605px;
+}
+
+.new8 span {
+    color: #009551;
+    font-size: 16px;
+}
+
+/*End Ex1*/
+/*Ex2*/
+#section1 {
+    width: 1100px;
+    height: 105px;
+}
+
+#section1 .heading {
+    width: 1100px;
+    height: 80px;
+    background: white;
+    margin-left: 15px;
+}
+
+.logo-menu {
+    width: 1100px;
+    height: 55px;
+}
+
+.heading .logo-menu .logohci {
+    width: 150px;
+    height: 60px;
+    float: left;
+    clear: right;
+}
+
+.menu {
+    float: right;
+    width: 550px;
+    height: 80px;
+    /*margin-right: 0px;*/
+}
+
+.menuLink {
+    float: left;
+    clear: right;
+}
+
+.signUp {
+    float: right;
+    margin-top: 30px;
+}
+
+.menuLink ul {
+    padding: 0px;
+    margin: 0px;
+    /*overflow: auto;*/
+}
+
+.menuLink > ul {
+    height: 55px;
+    background: white;
+    margin-left: 50px;
+}
+
+.menuLink ul li {
+    list-style: none;
+    float: left;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.menuLink ul li:hover {
+    cursor: pointer;
+    color: #eeeeee;
+    border-bottom: 3px solid #FF6600;
+}
+
+.menuLink ul li a {
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+.menuLink a:hover {
+    color: orange;
+}
+
+.signUp .btn_sign {
+    width: 100px;
+    height: 50px;
+    background: orange;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    margin-top: -15px;
+    font-size: 16px;
+}
+
+#section2 {
+    width: 1100px;
+    height: 350px;
+    border-bottom: 10px solid lightgray;
+    position: relative;
+    margin: -25px 15px;
+}
+
+#section2 #myCarousel {
+    width: 1100px;
+    height: 350px;
+    position: absolute;
+    top: 0px;
+    border-bottom: 2px solid dimgrey;
+}
+
+#section2 .carousel-indicators {
+    position: absolute;
+    top: 390px;
+}
+
+#section2 .carousel-caption {
+    text-align: left;
+    width: 500px;
+    height: 350px;
+    position: absolute;
+    top: 140px;
+    left: 240px;
+}
+
+.imgSlider {
+    filter: brightness(50%);
+}
+
+.carousel-caption .title {
+    color: white;
+    font-size: 55px;
+}
+
+.carousel-caption .purport {
+    color: white;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+#section4 {
+    width: 1100px;
+    height: 110px;
+    border: black solid 1px;
+    background: #27344A;
+    margin-left: 15px;
+    padding-top: 20px;
+    padding: 0px;
+    border-radius: 3px;
+    margin-top: 120px;
+}
+
+.infomation {
+    width: 650px;
+    height: 80px;
+    float: left;
+    clear: right;
+    background: #27344A;
+    margin: 20px 15px;
+
+}
+
+.line1 {
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+
+.line2 {
+    font-size: 15px;
+    color: #FF6600;
+    border: none;
+}
+
+.btnPur {
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+    width: 170px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
+/*End ex2*/
+/*End Lab3*/
+/*Lab4*/
+.logo1 {
+    width: 230px;
+    /*position: absolute;*/
+    /*left: 10px;*/
+}
+
+.menuw_web1 {
+    position: absolute;
+    /*top: 80px;*/
+    left: 10px;
+}
+
+.menuw_web1 a {
+    margin-left: 10px;
+    color: #5ba1cf;
+}
+
+.menuw_web1 .nav-link:hover {
+    background: #5ba1cf;
+    color:white;
+}
+.btnGHang {
+    width: 130px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: none;
+    background: orange;
+    border-radius: 3px;
+}
+.timkiem1 {
+    width: 1105px;
+    height: 40px;
+    position: absolute;
+    top: 75px;
+    left: 10px;
+}
+
+.o_tim1 {
+    width: 1010px;
+    border-radius: 3px;
+    border: gainsboro solid 1px;
+    padding-left: 10px;
+    background: #F5F5F5;
+    color: black;
+}
+.duonglink1 {
+    position: absolute;
+    top: 120px;
+    left: 10px;
+    color: black;
+    padding: 3px;
+}
+.tim1 {
+    background: #5ba1cf;
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 3px;
+}
+.purport .imgMiniSRM1 {
+    width: 80px;
+    height: 170px;
+    position: absolute;
+    top: 180px;
+    left: 10px;
+}
+
+.purport .imgMiniSRM1 img:hover {
+    box-shadow: #cce5ff 3px 3px 3px;
+    cursor: pointer;
+}
+.purport .imgSRM1 {
+    position: absolute;
+    top: 180px;
+    left: 90px;
+}
+
+.purport .imgSRM1 img:hover {
+    box-shadow: whitesmoke 10px 10px 10px;
+    cursor: pointer;
+
+}
+
+.purport .infomati {
+    width: 300px;
+    height: 500px;
+    position: absolute;
+    top: 180px;
+    left: 490px;
+    border-left: whitesmoke solid 1px;
+    padding-left: 10px;
+}
+
+.purport .infomati .nameSP {
+    font-weight: bold;
+    font-size: 20px;
+    color: #0066cc;
+    border-bottom: 1px whitesmoke solid;
+    padding-bottom: 5px;
+
+}
+
+
+.infomati .price {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.infomati .giam {
+    color: red;
+    text-decoration: none;
+}
+
+.info1 {
+    width: 290px;
+    height: 150px;
+    border-bottom: whitesmoke solid 1px;
+    margin-top: -10px;
+}
+
+.infomati .buy {
+    width: 290px;
+    height: 90px;
+    border-bottom: whitesmoke solid 1px;
+}
+
+.infomati .listSL ul {
+    width: 150px;
+    height: 30px;
+    margin: 5px 5px;
+
+}
+
+.infomati .listSL ul li {
+    float: left;
+    width: 30px;
+    height: 30px;
+    border: #CCCCCC solid 1px;
+    list-style-type: none;
+    padding: 0px 10px;
+    border-collapse: collapse;
+    font-size: 15px;
+}
+
+.infomati .listSL ul li:hover {
+    background: whitesmoke;
+}
+
+.infomati .listSL ul li a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    /*font-weight: bold;*/
+    font-size: 14px;
+
+}
+
+.infomati  .btnTGH {
+    margin-top: -35px;
+    margin-left: 115px;
+}
+.spTogether1 {
+    width: 580px;
+    height: 150px;
+    position: absolute;
+    top: 650px;
+    left: 33px;
+}
+
+.spTogether1 img:hover {
+    box-shadow: #eeeeee 3px 3px 3px;
+    cursor: pointer;
+}
+.listproduct {
+    border: #eeeeee solid 1px;
+    position: absolute;
+    left: 830px;
+    top: 170px;
+    padding-left: 5px;
+    width: 280px;
+    -webkit-box-shadow: 2px 3px 27px -8px rgba(184,171,184,1);
+    -moz-box-shadow: 2px 3px 27px -8px rgba(184,171,184,1);
+    box-shadow: 2px 3px 27px -8px rgba(184,171,184,1);
+}
+.tilList{
+    color: black;
+    font-weight: bold;
+}
+.titleFocus {
+    color: black;
+    font-weight: bold;
+}
+.dmp {
+    border-bottom: lightgrey solid 1px;
+    padding-left: 10px;
+}
+.khoang {
+    margin: 5px;
+}
+.product {
+    color: black;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.loc {
+    margin-left: 5px ;
+    width: 50px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    background: #5ba1cf;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.sp1 {
+    border-radius: 3px;
+    height: 30px;
+    width: 100px;
+    float: left;
+    clear: right;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-left: 5px;
+    background: #eeeeee;
+    color: black;
+}
+.sp1:hover {
+    background: grey;
+    color: white;
+}
+.animation img {
+    position: absolute;
+    top: 800px;
+    left: 50px;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: example;
+}
+
+@-webkit-keyframes example {
+    from {border-radius: 0px}
+    to {border-radius: 50px}
+}
+
+/* Standard syntax */
+@keyframes example {
+    from {border-radius: 0px}
+    to {border-radius: 50px}
+}
+.contactWeb {
+    position: absolute;
+    top: 1100px;
+    width: 1120px;
+   background: ghostwhite;
+    margin-left: 5px;
+}
+/*End lab4*/
